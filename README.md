@@ -172,10 +172,3 @@ As of April 30, 2025, all changes from **refactored/main-v2** are merged into th
 | | Geyser implementation | Leverage Solana Geyser for real-time data stream processing | ✅ |
 | **Stage 4: Minting experience** | Token minting | Ability to mint tokens (based on user request - someone minted 18k tokens) | ✅ |
 
-
-## Development timeline
-- Development begins: Week of March 10, 2025
-- Implementation approach: Gradual rollout in separate branch
-- Priority: Stages progress from simple to complex features
-- Completion guarantee: Full completion of Stage 1, other stages dependent on feedback and feasibility
-
